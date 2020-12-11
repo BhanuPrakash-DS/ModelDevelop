@@ -1,0 +1,6 @@
+setup3.py
+Discovery.egg-info/PKG-INFO
+Discovery.egg-info/SOURCES.txt
+Discovery.egg-info/dependency_links.txt
+Discovery.egg-info/requires.txt
+Discovery.egg-info/top_level.txt
